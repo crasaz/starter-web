@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Some extra example
 
 ## How to contribute
+
+contribution text
+
+## License
