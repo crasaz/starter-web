@@ -16,7 +16,7 @@ Some extra example
 
 ## How to contribute
 
-contribution text
+Please fork this repository and then issue Pull Request for review
 
 ## License
 
