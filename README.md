@@ -19,3 +19,6 @@ Some extra example
 contribution text
 
 ## License
+
+## Copyright 
+2020 Alex Razumkou
