@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull Request for review
 
 ## Copyright 
 2020 Alex Razumkou
-Adding a file for rebasing example
+Adding a file for rebasing example. More changes from feature branch too.
