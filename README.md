@@ -9,7 +9,7 @@ Some bull shit
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Updating a line after stash
 
 ## Deployment
 
